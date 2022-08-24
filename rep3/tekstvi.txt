@@ -1,1 +1,2 @@
-to jest tekst w edytorze vi
+to jest tekst w edytorze VI
+Kolejna Linijka tekstu
